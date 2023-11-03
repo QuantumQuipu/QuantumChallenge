@@ -20,3 +20,9 @@ Este tutorial de Quantum Tensorflow puede ser útil: [Entrenamiento de un circui
 Para el circuito variacional, puedes probar cualquier circuito que desees, incluso comenzar con uno que tenga una capa de RX, RZ y CNOTs.
 
 **El ganador será el que llegue a obtener el mejor accuracy con su modelo propuesto.**
+
+Premios:
+
+- IBM Quantum swag oficial.
+- Oportunidad de desarrollar un proyecto de investigación dentro de QuantumQuipu como Quantum Interns.
+- Voucher para tomar el examen de certificación de Qiskit Quantum Developer (Descuento del 100% del pago).
