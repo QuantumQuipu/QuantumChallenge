@@ -18,3 +18,5 @@ Este demo de PennyLane puede ser útil: [Entrenamiento de un circuito cuántico 
 Este tutorial de Quantum Tensorflow puede ser útil: [Entrenamiento de un circuito cuántico con Tensorflow](https://www.tensorflow.org/quantum/tutorials/mnist).
 
 Para el circuito variacional, puedes probar cualquier circuito que desees, incluso comenzar con uno que tenga una capa de RX, RZ y CNOTs.
+
+**El ganador será el que llegue a obtener el mejor accuracy con su modelo propuesto.**
